@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="card" style="width: 18rem;">
+  <img src="..." class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+            
+            <div class="px-4 py-3">
+                <h5 class="mb-0">01Alongkorn</h5>
+                <div class="p-4 rounded shadow-sm bg-light">
+                    <p class="font-italic mb-0">Alongkorn Praditthawong</p>
+                    <p class="font-italic mb-0">Student ID: 623410037-1</p>
+                    <p class="font-italic mb-0">Make  </p>
+                    <p class="font-italic mb-0">Alongkorn_pt@kkumail.com</p>
+                    <p class="font-italic mb-0">Computer and Information Science</p>
+                    <p class="font-italic mb-0">Khon Kean University Nongkhai campus</p>
+                    <br>
+                    <a href="https://www.facebook.com/profile.php?id=100004118462705">facebook</a>
+                    <a href="https://www.instagram.com/mek_hardboiled/">Instargram</a>
+                   
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
